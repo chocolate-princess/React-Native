@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReactNativeFbAd</string>
+    <string name="facebook_app_id">765155471259655</string>
+<string name="facebook_client_token">91e22565d493246bd6b57d473a9fb58b</string>
+
+</resources>
